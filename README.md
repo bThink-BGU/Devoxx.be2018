@@ -1,5 +1,5 @@
 # Rethinking Software Systems - a Gentle Introduction to Behavioral Programming
-## Code Appendix to a [BP intro talk]((https://dvbe18.confinabox.com/talk/ECS-4884/Rethinking_Software_Systems:_A_friendly_introduction_to_Behavioral_Programming)) hosted by [Devoxx.be 2018](https://devoxx.be)
+## Code Appendix to a [BP intro talk](https://dvbe18.confinabox.com/talk/ECS-4884/Rethinking_Software_Systems:_A_friendly_introduction_to_Behavioral_Programming) hosted by [Devoxx.be 2018](https://devoxx.be)
 
 [Talk Video](https://youtu.be/PW8VdWA0UcA)
 

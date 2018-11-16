@@ -34,12 +34,12 @@ The visual maze swing application can be found [here](https://github.com/bThink-
 
 ### Behavioral Programming Resources
 
-* b-prog.org: Main BP site, including other BP frameworks (C++, Java, Erlang, Blockly)
-* Many academic Papers (algorithms, event selections, visualizations, ...) Behavioral Programming, Live Sequence Charts (LSCs)
-* github.com/bthink-BGU: BPjs, projects presented in this talk
-* bpjs.readthedocs.io: BPjs tutorial and reference
-* groups.google.com/forum/#!forum/bpjs: BP Google group
-* scenariotools.org Textual description language of Live Sequence Charts, [Joel Greenyer](http://jgreen.de)
+* [www.b-prog.org](http://www.b-prog.org): Main BP site, including other BP frameworks (C++, Java, Erlang, Blockly)
+* [github.com/bthink-BGU](https://github.com/bthink-BGU): BPjs, projects presented in this talk
+* [bpjs.readthedocs.io](https://bpjs.readthedocs.io): BPjs tutorial and reference
+* [groups.google.com/forum/#!forum/bpjs](https://groups.google.com/forum/#!forum/bpjs): BP Google group
+* [scenariotools.org](http://scenariotools.org) Textual description language of Live Sequence Charts, [Joel Greenyer](http://jgreen.de)
 
+Also, there are many academic Papers (e.g. algorithms, event selections, visualizations). Search for "Behavioral Programming", "Live Sequence Charts (LSCs)", "Scenario Based Programming", or "Scenario Tools".
 
 

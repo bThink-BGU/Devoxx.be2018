@@ -30,7 +30,7 @@ To use several files at once, simply list them in the order you wish them evalua
 * `page-cleaner.js`: A set of b-threads that enforce, and test the enforcement of, the requirement:
     > "Every three pages, clean the ink jets"
 
-The visual maze swing application can be found [here](https://github.com/bThink-BGU/VisualRunningExamples)
+The visual maze swing application can be found [here](https://github.com/bThink-BGU/VisualRunningExamples).
 
 ### Behavioral Programming Resources
 
@@ -39,7 +39,7 @@ The visual maze swing application can be found [here](https://github.com/bThink-
 * github.com/bthink-BGU: BPjs, projects presented in this talk
 * bpjs.readthedocs.io: BPjs tutorial and reference
 * groups.google.com/forum/#!forum/bpjs: BP Google group
-* scenariotools.org Live Sequence Charts take on this subject, Joel Greenyer
+* scenariotools.org Textual description language of Live Sequence Charts, [Joel Greenyer](http://jgreen.de)
 
 
 
